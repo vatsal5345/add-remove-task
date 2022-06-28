@@ -1,0 +1,35 @@
+.table1 {
+  margin : 85px  65px;
+}
+
+.table1 th{
+  border : solid black;
+  padding:15px 180px 15px 180px;
+  text-align: center;
+  background-color: aqua;
+}
+.table1 td{
+  border : solid black;
+  padding : 15px 180px 15px 180px;
+}
+.item{
+  /* width: 300px;
+  height: 40px; */
+  padding: 10px 100px 10px 100px;
+
+}
+.delete_button{
+  padding: 15px 25px 15px 25px;
+  color: white;
+  background-color: red;
+}
+#add_button{
+  padding: 10px 60px 10px 60px;
+  text-align: center;
+  margin-left: 65px;
+}
+.new{
+  padding: 15px 25px 15px 25px;
+  color: white;
+  background-color: red;
+}
